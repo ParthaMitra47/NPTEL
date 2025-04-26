@@ -1,5 +1,3 @@
 If you are importing the .csv file Paste this command : data = pd.read_csv(r'D:\Ypur File path\gapminder-FiveYearData.csv')
 
 If you are importing the .tsv file Paste this command : data = pd.read_csv(r'D:\Ypur File path\gapminder.tsv', sep='\t')
-
-There is an extra space before country column name, Make sure to remove that.
